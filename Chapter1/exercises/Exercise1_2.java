@@ -5,6 +5,6 @@ public class Exercise1_2 {
         String name = "Kennettech";
         String position = "Park Manager";
         System.out.println("My name is " + name + 
-        " and I want to ba a " + position + " in Mesozoic Eden.");
+        " and I want to be a " + position + " in Mesozoic Eden.");
     }
 }
